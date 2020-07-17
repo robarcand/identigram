@@ -1,6 +1,6 @@
 # Identigram
 
-Identigram is an AR image recognition webapp. Originally conceived for iOS and Android, the application uses the ML5.js framework to identify features present in the video feed from the webcam and uses P5.js and React to render those descriptions onto the page. It was made by Rob Arcand during a 4-day hackathon at Fullstack Academy.
+Identigram is an AR image recognition webapp. Originally conceived for iOS and Android, the application uses the ML5.js framework to identify features present in the video feed from the webcam and uses P5.js to render those descriptions onto the page. It was made by Rob Arcand during a 4-day hackathon at Fullstack Academy.
 
 ## Setup
 
